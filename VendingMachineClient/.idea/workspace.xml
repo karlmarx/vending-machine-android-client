@@ -164,8 +164,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../../../vending-machine-android-client/VendingMachineClient/js/vendingMachine.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2626">
-              <caret line="208" column="54" lean-forward="true" selection-start-line="208" selection-start-column="54" selection-end-line="208" selection-end-column="54" />
+            <state relative-caret-position="404">
+              <caret line="107" column="17" lean-forward="true" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -224,8 +224,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1496" />
-    <option name="y" value="-134" />
+    <option name="x" value="1476" />
+    <option name="y" value="28" />
     <option name="width" value="1920" />
     <option name="height" value="811" />
   </component>
@@ -333,15 +333,16 @@
       <workItem from="1570292208675" duration="2047000" />
       <workItem from="1570452459924" duration="674000" />
       <workItem from="1570455498799" duration="3295000" />
-      <workItem from="1570471517833" duration="596000" />
+      <workItem from="1570471517833" duration="1690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62410000" />
+    <option name="totallyTimeSpent" value="63504000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1496" y="-134" width="1920" height="811" extended-state="0" />
+    <frame x="1476" y="28" width="1920" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21748288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -480,8 +481,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../../vending-machine-android-client/VendingMachineClient/js/vendingMachine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2626">
-          <caret line="208" column="54" lean-forward="true" selection-start-line="208" selection-start-column="54" selection-end-line="208" selection-end-column="54" />
+        <state relative-caret-position="404">
+          <caret line="107" column="17" lean-forward="true" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
         </state>
       </provider>
     </entry>
